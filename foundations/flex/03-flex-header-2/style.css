@@ -59,9 +59,3 @@ ul {
   align-items: center;
   gap: 16px;
 }
-
-.right-items{
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
